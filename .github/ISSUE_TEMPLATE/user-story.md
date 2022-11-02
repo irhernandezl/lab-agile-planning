@@ -1,9 +1,9 @@
 ---
-name: User Story
-about: This template is for creating user stories
-title: ''
-labels: ''
-assignees: ''
+Nombre: User Story
+descripción: This template is for creating user stories
+Titulo: ''
+Etiqueta: ''
+Asignado: ''
 
 ---
 
